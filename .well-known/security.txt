@@ -1,0 +1,4 @@
+Contact: mailto:security@goldenbay.example
+Expires: 2027-07-24T06:12:52.364Z
+Preferred-Languages: en, de, fr
+Canonical: https://goldenbay.onrender.com/.well-known/security.txt
