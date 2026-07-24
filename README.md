@@ -1,0 +1,2 @@
+# goldenbay
+Static site: goldenbay
